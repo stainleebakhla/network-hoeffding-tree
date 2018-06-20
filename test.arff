@@ -1,0 +1,9 @@
+@relation boolean_product
+
+@attribute 'first' real
+@attribute 'second' real
+@attribute 'result' {false,true}
+
+@data
+0.6, 0.4, false,
+
